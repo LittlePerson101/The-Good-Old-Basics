@@ -1,4 +1,5 @@
-#Ol' Reliable
+Ol' Reliable
+![Ol' Reliable Logo](https://github.com/user-attachments/assets/5e2e11f8-f1d7-4740-a6b1-5c5d64f627ea)
 
 New to mods?
 
@@ -8,7 +9,7 @@ Well, I've got a solution! photo of minecraft dirt block surrounded by brighteni
 
 Ol’ Reliable is a collection of mods that together form the everyday usual experience of a modded game without the hassle of trying to put something together by yourself. NOTE: THIS MODPACK IS IN VERY EARLY DEVELOPMENT, MOD AVAILABILITY ON SOME VERSIONS IS SUBJECT TO CHANGE Below is a chart that shows all supported versions and which mods are available on them: https://docs.google.com/spreadsheets/d/1FtwLTm-zO7ykEqe8ljtcleujHR-5FqDsSGmWwCnnOk4/edit?usp=sharing
 
-#VERSION GUIDE:
+VERSION GUIDE:
 
 Red = Not supported
 
@@ -24,7 +25,7 @@ Yellow = May have update in the future
 
 Green = Mod is included with modpack and works
 
-#Mod List:*
+Mod List:*
 
 Chat Heads
 
@@ -72,7 +73,7 @@ Note: Some Versions may exclude some of these mods listed and/or might be replac
 
 But if none of this makes sense to you, here what you need to know: This modpack features a Minimap, Voice Chat, Fullbright, Shaders Capability, Zoom, Tooltips, Building Holograms, Essential Mod, etc.
 
-#Build Guide
+Build Guide
 
 Release Builds: If the version you download is a release build that means the build contains all mods, mods can be added without breaking the pack (depending on your mod), and minimal bugs should be found when using
 

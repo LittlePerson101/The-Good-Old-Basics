@@ -1,3 +1,5 @@
+
+
 Ol' Reliable
 ![Ol' Reliable Logo](https://github.com/user-attachments/assets/5e2e11f8-f1d7-4740-a6b1-5c5d64f627ea)
 
@@ -5,7 +7,7 @@ New to mods?
 
 Just don't feel like making a Modpack to put your everyday essentials in?
 
-Well, I've got a solution! photo of minecraft dirt block surrounded by brightening yellow light
+Well, I've got a solution!
 
 Ol’ Reliable is a collection of mods that together form the everyday usual experience of a modded game without the hassle of trying to put something together by yourself. NOTE: THIS MODPACK IS IN VERY EARLY DEVELOPMENT, MOD AVAILABILITY ON SOME VERSIONS IS SUBJECT TO CHANGE Below is a chart that shows all supported versions and which mods are available on them: https://docs.google.com/spreadsheets/d/1FtwLTm-zO7ykEqe8ljtcleujHR-5FqDsSGmWwCnnOk4/edit?usp=sharing
 

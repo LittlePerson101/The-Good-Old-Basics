@@ -13,7 +13,7 @@ I have a beta NeoForge version for 1.21.4! Go check it out!
 I have indeed heard about the controversy about the Essential Mod! This pack does have Essential! If you prefer not to use the mod for whatever reason: I DO NOT JUDGE! Then please be on the lookout for the Non-Essential version, it's still in the works tho so maybe in like a month! I'll link it in the desc. when I get it working!
 
 ## Having Issues? Or an idea for the pack!
-Check out my GitHub repository and write in the issues tab! Even if it's not an issue! NOTE: Don't download from my GitHub the versions are really outdated! 
+Check out my GitHub repository and write in the issues tab! Even if it's not an issue! 
 
 Also not related to the above BUT: This is'nt the most "Fair-Play Friendly" Modpack because of Xaero's Minimap and Freecam and such. So I am not responsible if you get banned off a server because of this pack, be sure to read the servers opinion on these mods before playing for the best experience!
 

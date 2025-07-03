@@ -1,86 +1,21 @@
+# Wait, so what is this?
+Ol' Reliable is a Minecraft ModPack that I have been working on for some time. The aim of this project is to create a pack that is, reliable (I mean, it's kinda in the name). Ol' Reliable has many mods that are great utilities for those who enjoy a chill single-player experience. Or create havoc, it's up to you. Currently, I have this project in versions between 1.21.5 and 1.18.1-ish, but I am working on getting more versions out.
 
+## So what does this thing have?
+Great question, if you asked lol! This Modpack has a bunch of mods that are user-friendly to builders like: Litematica, Freecam, Iris, and WorldEdit. Also if you like quality-of-life features, I have that too! For example: Shulker Box Tooltip, Voice Chat, Fast IP Ping, Gamma/Fullbright, Dynamic FPS, and a bunch of other stuff! I know a lot of ppl are into PvP based packs, so I might sprinkle in some mods that help with that when I release v2.0 but it's up to you guys!
 
-Ol' Reliable
-![Ol' Reliable Logo](https://github.com/user-attachments/assets/5e2e11f8-f1d7-4740-a6b1-5c5d64f627ea)
+### So is it just Fabric?
+Short Answer: Yep! BUT, I really wanna get a NeoForge version so be on the lookout for that
+EDIT:
+I have a beta NeoForge version for 1.21.4! Go check it out!
 
-New to mods?
+# Ok WAIT Before you download! Read this!
+I have indeed heard about the controversy about the Essential Mod! This pack does have Essential! If you prefer not to use the mod for whatever reason: I DO NOT JUDGE! Then please be on the lookout for the Non-Essential version, it's still in the works tho so maybe in like a month! I'll link it in the desc. when I get it working!
 
-Just don't feel like making a Modpack to put your everyday essentials in?
+## Having Issues? Or an idea for the pack!
+Check out my GitHub repository and write in the issues tab! Even if it's not an issue! NOTE: Don't download from my GitHub the versions are really outdated! 
 
-Well, I've got a solution!
+Also not related to the above BUT: This is'nt the most "Fair-Play Friendly" Modpack because of Xaero's Minimap and Freecam and such. So I am not responsible if you get banned off a server because of this pack, be sure to read the servers opinion on these mods before playing for the best experience!
 
-Ol’ Reliable is a collection of mods that together form the everyday usual experience of a modded game without the hassle of trying to put something together by yourself. NOTE: THIS MODPACK IS IN VERY EARLY DEVELOPMENT, MOD AVAILABILITY ON SOME VERSIONS IS SUBJECT TO CHANGE Below is a chart that shows all supported versions and which mods are available on them: https://docs.google.com/spreadsheets/d/1FtwLTm-zO7ykEqe8ljtcleujHR-5FqDsSGmWwCnnOk4/edit?usp=sharing
+Anyhow! That's it for now! Enjoy the Reliable Experience lol.
 
-VERSION GUIDE:
-
-Red = Not supported
-
-Yellow = Under Construction
-
-Green = Available
-
-MOD:
-
-Red = Not planned to be updated
-
-Yellow = May have update in the future
-
-Green = Mod is included with modpack and works
-
-Mod List:*
-
-Chat Heads
-
-Cloth Config API
-
-Collective
-
-Common Network
-
-Dynamic FPS
-
-Essential Mod
-
-Fabric Language Kotlin
-
-Fast IP Ping
-
-Forge Config API Port
-
-Freecam
-
-Gamma Utils/Fullbright
-
-Iris Shaders Mod
-
-Litematica
-
-MaLiLib
-
-Motion Capture
-
-Shulker Box Tooltip
-
-Simple Voice Chat
-
-Sodium
-
-WI Zoom
-
-WorldEdit
-
-Xaero's Minimap
-
-Note: Some Versions may exclude some of these mods listed and/or might be replaced by similar mods, that will also be listed above
-
-But if none of this makes sense to you, here what you need to know: This modpack features a Minimap, Voice Chat, Fullbright, Shaders Capability, Zoom, Tooltips, Building Holograms, Essential Mod, etc.
-
-Build Guide
-
-Release Builds: If the version you download is a release build that means the build contains all mods, mods can be added without breaking the pack (depending on your mod), and minimal bugs should be found when using
-
-Beta Builds: If the version you download is a beta build that means the build may not have all mods, bugs might be found, and it is recommended not to add mods unless necessary
-
-Alpha Builds: If the version you download is an apha build that means the build will not have all mods, bugs are common, and if you add mods it will most likely break functionality of the pack
-
- 
